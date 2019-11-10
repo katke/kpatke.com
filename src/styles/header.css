@@ -1,0 +1,23 @@
+.top-header {
+    width: 100vw;
+    height: 9rem;
+    background-color: black;
+    padding: 1rem;
+}
+
+.top-header #name, 
+.top-header .title {
+    text-align: left;
+    margin: 0.5rem 1rem;
+    padding: 0;
+}
+
+.top-header #name {
+    font-size: 3rem;
+    color: white;
+}
+
+.top-header .title {
+    font-size: 1.3rem;
+    color: whitesmoke;
+}
